@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**DaliaNabil/DaliaNabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# 💫 About Me:
+# 💫 About Me:
 I am an engineer with a strong academic background in engineering.<br><br>I have completed a Full Stack Development course specializing in React, Next.js, and Node.js.<br><br>I am skilled in building end-to-end web applications, from frontend interfaces to backend systems.<br><br>My expertise includes modern JavaScript frameworks and server-side development.<br><br>
 
 
@@ -27,4 +13,3 @@ I am an engineer with a strong academic background in engineering.<br><br>I have
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
